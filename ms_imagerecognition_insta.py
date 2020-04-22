@@ -6,7 +6,7 @@ from random import randrange
 
 def msFaceRec(name, username, followers, following, post, description, hd_profile_pic):
 
-    subscription_key = 'ecc21e5ce2274f1f86e93dc47cadca44'
+    subscription_key = 'add key here'
     face_api_url = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect'
     headers = {'Ocp-Apim-Subscription-Key': subscription_key}
 
