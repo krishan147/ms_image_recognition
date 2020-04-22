@@ -3,8 +3,7 @@ import json
 import pandas as pd
 import time
 
-# subscription_key = '7791945aacbd45839ac870510c8489eb'
-# subscription_key = '5d153b38728b42d5922b12570833be45'
+# subscription_key = 'add key here'
 
 def readFile(file):
 
